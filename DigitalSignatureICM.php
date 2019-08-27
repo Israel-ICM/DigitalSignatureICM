@@ -10,11 +10,11 @@ class DigitalSignatureICM {
      * Configurations
      * @var array
      */
-    private $_config = [
+    private $_config = array(
         'config' => 'C:\xampp\php\extras\openssl\openssl.cnf', // This route is necessary if you work with XAMPP
         'private_key_bits' => 2048,
         'private_key_type' => OPENSSL_KEYTYPE_RSA
-    ];
+    );
 
     /**
      * DigitalSignatureICM constructor.
