@@ -1,0 +1,7 @@
+# -- EXTENSIONS --
+*.pem
+*.dat
+
+# --- IDE'S ---
+.idea/
+.settings/
