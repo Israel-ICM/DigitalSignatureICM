@@ -1,7 +1,7 @@
 # DigitalSignatureICM - Firma digital
 
 Herramienta para generar llaves pública y privada con **PHP** utilizando **OpenSSL**.
-Firma cadenas, algo que podria ayudarte si necesitas firmar archivos **XML**. Éste es solo un pequeño ejemplo para los que necesiten un código
+Firma cadenas, algo que podria ayudarte si necesitas firmar archivos **XML** (Para esto ya tendrias que haber realizado los procesos de canonicalización necesarios). Éste es solo un pequeño ejemplo para los que necesiten un código
 pequeño y limpio sobre el que trabajar.
 
 ## Comenzando 🚀
