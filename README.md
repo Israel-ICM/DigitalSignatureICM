@@ -61,4 +61,4 @@ Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENS
 
 
 ---
-⌨️ Con ❤️ por [Israel-ICM](https://github.com/Israel-ICM) 😊 y que viva [Apple](https://www.apple.com/) XDXDXD
+⌨️ Con ❤️ por [Israel-ICM](https://github.com/Israel-ICM)
